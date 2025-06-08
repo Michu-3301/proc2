@@ -49,8 +49,8 @@
 		float: center;
 		width: 160px;
 		min-height: 620px;
-		padding: 10px;
-		background-color: lightgray;
+		
+	
 	}
 	</style>
 
